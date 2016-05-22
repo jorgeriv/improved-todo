@@ -1,2 +1,3 @@
 'use strict';
-angular.module('myApp', ['ngRoute']);
+// Goal Oriented Time Managment app
+angular.module('gotm', ['ngRoute']);

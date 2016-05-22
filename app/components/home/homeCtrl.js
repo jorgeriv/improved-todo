@@ -2,6 +2,6 @@
 function ctrl($scope){
   $scope.title = 'My app';
 }
-  angular.module('myApp')
+  angular.module('gotm')
     .controller('homeController',['$scope', ctrl]);
 }());
